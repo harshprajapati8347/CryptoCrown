@@ -1,4 +1,6 @@
-## CryptoCrown App
+## 🎉 CryptoCrown App 🚀
+
+![CryptoCrown App](https://github.com/harshprajapati8347/CryptoCrown/blob/main/src/assets/images/desktopview.png)
 
 A Cryptocurrency `ReactJs` website with in depth data about all cryptocurrencies, markets, exchanges, popular news and much more. Showcased Charts using `ChartJs` , made Creative Design using `Ant Design` , used `axios` for requests handling , `moment` and `millify` for date formatting & used `Rapid API` for fetching data from `Bing News & CoinRanking`.
 
